@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+
+{% comment %}
+<div class="posts">
+	<hr>
+  <ul class="post-list">
+   	 {% for post in site.posts %}
+       {% if post.tags %}
+         <li>
+           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		   <div class="post-meta">
+		     <span class="post-date">
+		       {{ post.date | date: "%-d %B %Y" }}
+		     </span>
+    	   </div>    
+         </li>
+       {% endif %}
+     {% endfor %}
+  </ul>
+</div>
+{% endcomment %}
+
+<!-- This loops through the paginated posts -->
+<div class="posts">
+	<hr />
+  <ul class="post-list">
+{% for post in paginator.posts %}
+       {% if post.tags %}
+         <li>
+           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		   <div class="post-meta">
+		     <span class="post-date">
+		       {{ post.date | date: "%-d %B %Y" }}
+		     </span>
+    	   </div>    
+         </li>
+       {% endif %}
+{% endfor %}
+  </ul>
+<div class="pagination">
+  <span class="total-posts">There are {{ paginator.total_posts }} posts split across {{ paginator.total_pages }} pages.</span>
+  <p>{% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous page</a>
+  {% else %}
+    <span class="previous"></span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next page</a>
+  {% else %}
+    <span class="next "></span>
+  {% endif %}
+  </p>
+</div>
+</div>
+
+<!-- Pagination links -->
+
+<div class="pages">
+	<hr>
+  <ul class="page-list">
+   	{% for page in site.pages %}
+      {% if page.homepage %}
+        <li>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		  <div class="page-description">
+		    <span class="post-date">
+              {{ page.short-description }}
+		    </span>
+    	  </div>    
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+
+
