@@ -3,6 +3,7 @@ layout: page
 title: Artworks
 homepage: yes
 short-description: "&nbsp;"
+order: 4
 ---
 
 hen I was at art school I was into paper, words, and printing. I had decided that art galleries are a barrier that keeps people away from art—in the sense that you have to go into them to look at the work. The barrier creates problems for different people in different ways. I wanted my work to be outside of those rooms and I wanted to remove the barrier.

@@ -3,7 +3,7 @@ layout: page
 title: Writing
 homepage: yes
 short-description: "&nbsp;"
-
+order: 2
 ---
 
 A few years ago I decided that I wanted to do writing. I applied for some commissions and some friends asked me to write things for them. Some of what I wrote was published in print.

@@ -3,6 +3,7 @@ layout: page
 title: Music
 homepage: yes
 short-description: "&nbsp;"
+order: 3
 ---
 
 I make music with two friends, Ben and Lee, in a band named *White Tantrum*. We started off as a sort of rubbish-punk outfit and for quite a while we have been a bad-noise duo because Lee lives in a different city. Recently Lee has been visiting more and we are trying to get organised. Mostly we make bad-noise.

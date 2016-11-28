@@ -3,6 +3,7 @@ layout: page
 title: Work
 homepage: yes
 short-description: "&nbsp;"
+order: 1
 ---
 
 Some of the time I do some political organising or support work. Not much, not enough. 
