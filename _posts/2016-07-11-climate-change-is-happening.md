@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climate change is happenin
+title: Climate change is happening
 ---
 
 
