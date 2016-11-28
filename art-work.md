@@ -32,8 +32,8 @@ Other things happened.
 *****
 
 <div>
-{% for artwork in site.artworks %}
-	 <a href="{{ artwork.url }}">{{ artwork.title }}</a> &nbsp; {{ artwork.year }}
-       <p class="text-muted">{{ artwork.short-description }}</p>
+{% for art-work in site.art-work %}
+	 <a href="{{ art-work.url }}">{{ art-work.title }}</a> &nbsp; {{ art-work.year }}
+       <p class="text-muted">{{ art-work.short-description }}</p>
 {% endfor %}
 </div>
