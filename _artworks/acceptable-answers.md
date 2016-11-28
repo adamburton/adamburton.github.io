@@ -9,6 +9,7 @@ One day, after visiting Freedom Bookshop in Whitechapel I was looking through th
 
 I was reading The Road by Cormac McCarthy and a book about UK Green Party policy. I was thinking about climate change and about awful, terrible things and I decided to write some of it down and to print the writing onto the greyboard with a rubber stamp letter set that my friend Richard Lawrence gave me.
 
+{.center}
 ![an intense blackness](/assets/an-earthquake-comes.jpg)
 
 There was a quote in the Green Party book: "We have not time to find acceptable answers." I found this deeply unsettling and decided to name the printing project after it. The quote was of Garret Hardin. At the time I was quite concerned about over-population but later I read more about it, thought more about it, and became more concerned with over-consumption.
