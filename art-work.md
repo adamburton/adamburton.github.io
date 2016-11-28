@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artworks
+title: Art work
 homepage: yes
 short-description: "&nbsp;"
 order: 4
