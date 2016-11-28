@@ -28,7 +28,7 @@ The screenings that happened were excellent. I was not organised enough really, 
 
 Another important part of the screenings was marketing them. I handed out hundreds of flyers near the venues a week or so before each screening. The flyer briefly explained the experience of the Chagossian people and about the film. I had quite a few quick chats with people about it and, as the film is available on-line I am sure that some of those people who took a flyer went home and watched it.
 
-It was, shamefully, nowhere near enough.
+It has been, shamefully, nowhere near enough.
 
 
 
