@@ -17,9 +17,9 @@ url: "http://adamburton.github.io" # the base hostname & protocol for your site
 twitter_username: _adamburton
 github_username:  adamburton
 collections:
-  artworks:
+  artwork:
      output: true
-     permalink: /artworks/:path/
+     permalink: /artwork/:path/
   music:
      output: true
      permalink: /music/:path/
